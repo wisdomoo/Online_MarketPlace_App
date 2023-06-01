@@ -6,7 +6,7 @@ This app allows customers to search for products based on category or name. Any 
 
 # Landing Page
 This is the first page a customer sees when he visits the site.  The first six(6) items posted by users are displayed on this page.
-![Landing Page](https://i.imgur.com/6KAdTlw.png)
+![Landing Page](https://i.imgur.com/OTt7U85.png)
 The landing page contains the following links:
 1. New Item
 2. Browse
