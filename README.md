@@ -1,4 +1,6 @@
 # 0nline MarketPlace
+This portfolio project is part of ALX school requirement for software engieering students. This is the first module.
+
 Online MarketPlace app is an online store where users can sell and buy both used and new products.
 This app allows customers to search for products based on category or name. Any customer who is interested in any product will be able to contact the seller by sending a direct message to the seller and the seller at the receiving end should be able to send a reply.
 
@@ -13,7 +15,7 @@ The landing page contains the following links:
 
 # Login
  On this link, already created user will be prompted to enter their user name and password which will be authenticated by the app. 
-![Landing Page](https://i.imgur.com/Ba0puZT.png)
+![Landing Page](https://i.imgur.com/OTt7U85.png)
 
 Once the user has been authenticated/authorized, he will be redirected to his dashboard where he can have access to add new items and be able to edit and delete items. Users can also, check their inbox if the have any new request from other users and will be able to respond as well.
 
