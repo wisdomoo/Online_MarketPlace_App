@@ -35,5 +35,7 @@ which will automatically displayed on his dashboard and on the landing page for 
 # Browse
 This section allows users to search for item either by category or by  name
 ![Browse Item](https://i.imgur.com/bnQHm9W.png)
+
+
 ![Browse Item](https://i.imgur.com/l6fV40r.png)
 
